@@ -40,6 +40,5 @@ next-env.d.ts
 
 gitignore.txt
 env.txt
-.vercel
 
 .env.development.local
